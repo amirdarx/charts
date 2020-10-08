@@ -95,7 +95,7 @@ let chart_1 = new Chart(ctx_1, {
             borderColor: '#fff',
             hoverBorderWidth: 3,
             hoverBorderColor: '#37e',
-            data: [6.00, 2.85, 3.30, 0, 0, 0, 0]
+            data: [6.00, 2.85, 3.30, 1, 0, 0, 0]
         }]
     },
     options: {
@@ -134,7 +134,7 @@ let chart_2 = new Chart(ctx_2, {
             borderColor: '#fff',
             hoverBorderWidth: 3,
             hoverBorderColor: '#37e',
-            data: [2.20, 2.80, 2.30, 0, 0, 0, 0]
+            data: [2.20, 2.80, 2.30, 5.20, 0, 0, 0]
         }]
     },
     options: {
@@ -173,7 +173,7 @@ let chart_3 = new Chart(ctx_3, {
             borderColor: '#fff',
             hoverBorderWidth: 3,
             hoverBorderColor: '#37e',
-            data: [1, 1, 1, 0, 0, 0, 0]
+            data: [1, 1, 1, 1, 0, 0, 0]
         }]
     },
     options: {
